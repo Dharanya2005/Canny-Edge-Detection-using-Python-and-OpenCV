@@ -1,5 +1,6 @@
 # Canny Edge Detection using Python and OpenCV
-
+### Name: Dharanya N
+### Reg no: 212223230044
 ## Aim
 To implement the Canny Edge Detection algorithm on a sample image using Python and OpenCV in order to detect and analyze the edges present in the image.
 
